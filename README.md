@@ -86,4 +86,4 @@ Code
 1) [weather]()
 ![heatmap]()
 2) [vacation]()
-![heatmap]()
+![heatmap](images/city_heatmap_markers.png)
