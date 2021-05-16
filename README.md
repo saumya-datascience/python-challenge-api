@@ -83,7 +83,6 @@ As final considerations:
 
 ## Results
 Code
-1) [weather]()
-![heatmap]()
+1) [weather](weather/WeatherPy.ipynb)
 2) [vacation]()
 ![heatmap](images/city_heatmap_markers.png)
